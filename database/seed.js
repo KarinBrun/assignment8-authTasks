@@ -1,4 +1,4 @@
-const { db, Project, Task } = require('./setup');
+const { db, Project, Task, User } = require('./setup');
 const bcrypt = require('bcryptjs');
 // Sample project data
 
